@@ -1,9 +1,0 @@
-login ,
-login page ,
-footer,
-product page,
-logo, 
-dorpdown,
-product name headline with logo,
-cart button
-cart page
